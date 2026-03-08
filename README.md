@@ -42,6 +42,6 @@ A deep dive into packet analysis and identifying malicious traffic patterns.
 ---
 
 ### 🤝 Connect with Me
-[LinkedIn]([(https://www.linkedin.com/in/malik-joyner-32062596/)) | [Portfolio Website](your-site-link) | [Blog/Write-ups](your-blog-link)
+[LinkedIn](https://www.linkedin.com/in/malik-joyner-32062596/) | [Portfolio Website](your-site-link) | [Blog/Write-ups](your-blog-link)
 
 *"Applying the precision of a Lead Energy Auditor to the world of Information Security."*
