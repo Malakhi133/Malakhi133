@@ -1,4 +1,4 @@
-# Hi, I'm Malik Joyner 👋 
+# Hi, I'm Malik J 👋 
 ### Transitioning Lead Technician ➡️ Cybersecurity & IT Operations Professional
 
 Building a secure digital future with a foundation in field operations, leadership, and analytical problem-solving. Currently pursuing a **B.S. in Cybersecurity and Information Assurance at WGU**.
